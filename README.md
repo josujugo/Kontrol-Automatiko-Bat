@@ -5,5 +5,5 @@ Kontrol automatiko bat irakasgaiarentzat informazioa eta adibide lagungarriak Ca
 
 ---
 
-[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/josujugo/Kontrol-Automatiko-Bat/blob/master/azterketaKAI2019.ipynb)
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/josujugo/Kontrol-Automatiko-Bat/blob/master/prezisioa.ipynb)
 
