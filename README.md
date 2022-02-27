@@ -1,4 +1,4 @@
-# Kontrol-Automatiko-Bat
+# Kontrol Automatiko Bat
 
 Kontrol automatiko bat irakasgaiarentzat informazioa eta adibide lagungarriak Cancel changes
 
